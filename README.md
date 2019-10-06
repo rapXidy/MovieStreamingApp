@@ -20,3 +20,5 @@ There are various animations to give the user an immersive experience, and also 
 # Pre-ScreenShots
 
 <img src = "images/Screenshot_20190523-184554.png" width="360" height="600" >
+<img src = "images/Screenshot_20190523-184607.png" width="360" height="600" >
+<img src = "images/Screenshot_20190523-184631.png" width="360" height="600" >
