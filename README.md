@@ -19,5 +19,4 @@ There are various animations to give the user an immersive experience, and also 
 
 # Pre-ScreenShots
 
-<img src = "images/screenshot1.png" >
-![](https://drive.google.com/file/d/1AZ_2TUPwcPL9KrXQ99y64PeTmXGDmiPO/view?usp=sharing "first shot Home screen")
+<img src = "images/Screenshot_20190523-184554.png" width="360" height="600" >
